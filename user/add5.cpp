@@ -28,7 +28,6 @@ static struct {
   uint32_t timer2 = 0;
   int32_t pitch1 = 0;   // s7.24
   int32_t pitch2 = 0;   // s7.24
-  int32_t noteOn = 0;
   int32_t shape_lfo = 0;
 } s_state;
 
